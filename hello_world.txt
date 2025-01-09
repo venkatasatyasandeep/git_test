@@ -1,1 +1,20 @@
 Hi ! i am Sandeep
+I am a software engineer and i am interested in learning about the latest technologies and trends in the field
+
+I am currently working on a project that involves using machine learning algorithms to predict customer behavior
+I am using a combination of supervised and unsupervised learning techniques to build a model that can accurately
+predict customer churn and identify high-value customers
+I am using a dataset that contains information about customer demographics, purchase history, and other relevant features
+I am using a combination of regression and classification algorithms to build the model
+I am using a variety of metrics to evaluate the performance of the model, including accuracy, precision,
+recall, and F1 score
+
+    I am also using techniques such as feature engineering and hyperparameter tuning to improve the performance of the model
+    I am using a variety of libraries and tools, including scikit-learn, pandas, and
+    I am also interested in learning about the latest advancements in the field of machine learning and deep learning
+    I am looking for resources and tutorials that can help me improve my skills and knowledge in these areas
+    I am also interested in learning about the applications of machine learning and deep learning in real-world scenarios
+    I am looking for resources and tutorials that can help me learn about these topics
+    I am also interested in learning about the latest tools and technologies in the field of machine learning and
+    I am looking for resources and tutorials that can help me learn about these topics        
+    
